@@ -1,2 +1,2 @@
 # a-fancy-calculator
-an ordinary app for calculator
+an ordinary and fancy app for calculating 
